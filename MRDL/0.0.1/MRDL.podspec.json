@@ -1,0 +1,15 @@
+{
+    "name": "MRDL",
+    "version": "0.0.1",
+    "summary": "A short description of MRDL.",
+    "homepage": "www.wettown.com",
+    "authors": {
+        "Myron": "540243706@qq.com"
+    },
+    "platforms": {
+        "ios": "10.0"
+    },
+    "source": {
+        "http": "https://raw.githubusercontent.com/myronZhouJ/Temp/master/MRDL.framework.zip"
+    }
+}
