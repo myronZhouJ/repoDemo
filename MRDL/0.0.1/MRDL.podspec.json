@@ -13,6 +13,6 @@
         "http": "https://raw.githubusercontent.com/myronZhouJ/Temp/master/MRDL.zip"
     },
     "vendored_frameworks": [
-        "Frameworks/MRDL.framework"
+        "MRDL/Frameworks/MRDL.framework"
     ]
 }

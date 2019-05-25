@@ -13,9 +13,9 @@
         "http": "https://raw.githubusercontent.com/myronZhouJ/Temp/master/MRSL.zip"
     },
     "vendored_frameworks": [
-        "Frameworks/MRSL.framework"
+        "MRSL/Frameworks/MRSL.framework"
     ],
     "resources": [
-        "Frameworks/MRSL.framework/MRSL.Bundle"
+        "MRSL/Frameworks/MRSL.framework/MRSL.Bundle"
     ]
 }

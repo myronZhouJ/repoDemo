@@ -6,6 +6,6 @@ Pod::Spec.new do |s|
   s.author             = { "Myron" => "540243706@qq.com" }
   s.platform     = :ios, "10.0"
   s.source       = { :http => "https://raw.githubusercontent.com/myronZhouJ/Temp/master/MRSL.zip"}
-  s.vendored_frameworks = ["Frameworks/MRSL.framework"]
-  s.resources = ["Frameworks/MRSL.framework/MRSL.Bundle"]
+  s.vendored_frameworks = ["MRSL/Frameworks/MRSL.framework"]
+  s.resources = ["MRSL/Frameworks/MRSL.framework/MRSL.Bundle"]
 end
