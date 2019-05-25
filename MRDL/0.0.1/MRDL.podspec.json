@@ -10,6 +10,9 @@
         "ios": "10.0"
     },
     "source": {
-        "http": "https://raw.githubusercontent.com/myronZhouJ/Temp/master/MRDL.framework.zip"
-    }
+        "http": "https://raw.githubusercontent.com/myronZhouJ/Temp/master/MRDL.zip"
+    },
+    "vendored_frameworks": [
+        "Frameworks/MRDL.framework"
+    ]
 }
